@@ -57,5 +57,6 @@ Circuit → DAQ → Time-series → FFT → Spectral Bifurcation Diagram
 
 ---
 
-## 👤 Author
-Suvradip Maity
+## 👤 Authors
+Suvradip Maity and Debajyoti Guha
+
